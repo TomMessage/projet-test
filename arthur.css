@@ -1,0 +1,31 @@
+header {
+    background-color: aqua;
+   
+}
+header h1 {
+    align-items: center;
+}
+
+#menu {
+    background-color: lightskyblue;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.fromage {
+    background-color: lightgreen;
+    width: 50%;
+}
+.sushi {
+    background-color: lightsalmon;
+    width: 50%;
+}
+.printer {
+    color: red;
+}
+.plats {
+    display: flex;
+}
+.fromage img {
+    width: 80%;
+}
